@@ -1,0 +1,6 @@
+#bg-Header{
+    background-image: url("../img/bg-home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
